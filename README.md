@@ -1,2 +1,1 @@
-# how_R_makes_copies
-investigates, how `R` creates copies and thereby consume memory
+See `how_R_makes_copies.md`

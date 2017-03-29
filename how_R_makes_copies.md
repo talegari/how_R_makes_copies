@@ -1,5 +1,7 @@
-Purpose
+How R makes copies
 =======
+
+*author*: Srikanth KS
 
 `R` passes by *value*. This leads to multiple copies of `R` objects(objects are in RAM), although lazy evaluation and *copy-on-modify* semantics prevent it to some extent. This makes interactive use seamless but not apt for larger datasets.
 
